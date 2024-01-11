@@ -13,13 +13,17 @@ Use this script responsibly and be aware of the potential consequences of automa
 
 - Python 3.x
 - PyAutoGUI library
+  
 
 -------------Install the required library using:------------
+
 pip install pyautogui
 
 
 --------------Getting Started----------------
+
 Clone the repository to your local machine.
+
 
 git clone https://github.com/Cpahi/AUTO-MESSAGE-SPAWNING-SCRIPT.git
 cd auto-message-spawning
@@ -36,6 +40,7 @@ Follow the on-screen instructions to input your message and deployment preferenc
 
 
 ---------------------Usage---------------------
+
 Input the message you want to send.
 Specify the number of times to send the message.
 Place your cursor at the point of deployment.
@@ -44,12 +49,15 @@ The messages will start spawning after a 60-second delay.
 
 
 -------------------Contributing--------------------
+
 Contributions are welcome! If you have any improvements or feature suggestions, feel free to open an issue or submit a pull request.
 
 
 
 ---------------------License-----------------------
+
 This project is a license free project.
+
 
 Note: Always use automation scripts responsibly and ethically. Be cautious while interacting with external applications or services.
 
